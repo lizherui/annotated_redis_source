@@ -21,4 +21,4 @@ deps/lua/src/liblua.a
 .prerequisites
 *.dSYM
 tags
-history.txt
+/deps/linenoise/history.txt
