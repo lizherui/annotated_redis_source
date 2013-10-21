@@ -22,3 +22,4 @@ deps/lua/src/liblua.a
 *.dSYM
 tags
 /deps/linenoise/history.txt
+cscope*
